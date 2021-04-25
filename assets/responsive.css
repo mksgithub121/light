@@ -55,7 +55,7 @@
 #navbarSupportedContent {
     position: absolute;
     width: 100%;
-    height: 100vh;
+    height: 500px;
     background: #fff;
     overflow-Y: auto;
 }
@@ -121,7 +121,7 @@ header nav .navbar-collapse .nav-link {
 #navbarSupportedContent {
     position: absolute;
     width: 100%;
-    height: 100vh;
+    height: 500px;
     background: #fff;
     overflow-Y: auto;
 }
@@ -186,7 +186,7 @@ header nav .navbar-collapse .nav-link {
 #navbarSupportedContent {
     position: absolute;
     width: 100%;
-    height: 100vh;
+    height: 500px;
     background: #fff;
     overflow-Y: auto;
     top: 28px;
