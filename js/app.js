@@ -14,6 +14,7 @@ $(document).ready(function () {
     });
     $('.navbar-toggler').on('click', function () {
         $('.mobileMenu').toggleClass('open');
+        $("body").css("overflow", "hidden");
     });
     $(" .src_btn").on("click", function () {
         $(".search_wrapper").toggleClass("search_active");

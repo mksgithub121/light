@@ -61,6 +61,7 @@
 }
 header nav .navbar-collapse .nav-link {
     font-size: 14px;
+    text-align: center !important;
 }
 .dropdown-menu.show {
     border-bottom: 0;
