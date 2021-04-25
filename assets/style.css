@@ -39,6 +39,10 @@ body {
 	font-family: Arial, sans-serif;
 }
 
+body.scrollHidden {
+	overflow: hidden;
+}
+
 /*** Browser Reset Code  ***/
 * {
 	/* margin: 0;
@@ -95,7 +99,7 @@ h3 {
 	transform: translateY(-4px);
 	cursor: pointer
 }
-.search_wrapper{
+.search_wrapper {
 	display: none;
 }
 
